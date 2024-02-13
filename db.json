@@ -1,9 +1,704 @@
+
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "kind": "books#volumes",
+  "totalItems": 357,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "s1i5BQAAQBAJ",
+      "etag": "ejM2IVERhr4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/s1i5BQAAQBAJ",
+      "volumeInfo": {
+        "title": "Semantic Technology",
+        "subtitle": "Second Joint International Conference, JIST 2012, Nara, Japan, December 2-4, 2012, Proceedings",
+        "authors": [
+          "Hideaki Takeda",
+          "Yuzhong Qu",
+          "Riichiro Mizoguchi",
+          "Yoshinobu Kitamura"
+        ],
+        "publisher": "Springer",
+        "publishedDate": "2013-04-08",
+        "description": "This book constitutes the proceedings of the Second Joint International Semantic Technology Conference, JIST 2012, held in Nara, Japan, in December 2012. The 20 full papers and 13 short papers included in this volume were carefully reviewed and selected from 90 submissions. The regular papers deal with ontology and description logics; RDF and SPARQL; learning and discovery; semantic search; knowledge building; semantic Web application. The in-use track papers cover topics on social semantic Web and semantic search; and the special track papers have linked data in practice and database integration as a topic.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9783642379963"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "3642379966"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 401,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=s1i5BQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=s1i5BQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=s1i5BQAAQBAJ&pg=PA230&dq=%24%7BoriginalName%7D&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=s1i5BQAAQBAJ&dq=%24%7BoriginalName%7D&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Semantic_Technology.html?hl=&id=s1i5BQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "KE",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "KE",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Semantic_Technology-sample-pdf.acsm?id=s1i5BQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=s1i5BQAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>Original Name</b>,” as specified by the predicate :<b>originalName</b> (see Figure 1). If we use the nextpredicate definition by specifying :<b>originalName</b>, the query engine will try to find an instance at that predicate, which will fail since there&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "nCA-AQAAMAAJ",
+      "etag": "4FSSFCFFXNU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/nCA-AQAAMAAJ",
+      "volumeInfo": {
+        "title": "A Treatise on the Law of Railways",
+        "subtitle": "Railway Companies, and Railway Investments",
+        "authors": [
+          "Sir William Hodges"
+        ],
+        "publishedDate": "1889",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "STANFORD:36105026495189"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 586,
+        "printType": "BOOK",
+        "categories": [
+          "Railroad law"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.6.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=nCA-AQAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=nCA-AQAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=nCA-AQAAMAAJ&pg=PA220&dq=%24%7BoriginalName%7D&hl=&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=nCA-AQAAMAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=nCA-AQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "KE",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=nCA-AQAAMAAJ&rdid=book-nCA-AQAAMAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "KE",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/A_Treatise_on_the_Law_of_Railways.epub?id=nCA-AQAAMAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=nCA-AQAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>original name</b> ; and all acts relating to the company by their <b>original name</b> shall be read and interpreted as if throughout those acts , wherever the <b>original name</b> of the company or any reference to the company by their <b>original name</b>&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "t7YNAAAAYAAJ",
+      "etag": "L/qYKjVWGIg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/t7YNAAAAYAAJ",
+      "volumeInfo": {
+        "title": "The Statutes: 25 & 26 Victoria to 28 & 29 Victoria",
+        "subtitle": "1862",
+        "authors": [
+          "Great Britain"
+        ],
+        "publishedDate": "1878",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "HARVARD:HL5KH1"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 1320,
+        "printType": "BOOK",
+        "categories": [
+          "Law"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.12.9.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=t7YNAAAAYAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=t7YNAAAAYAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=t7YNAAAAYAAJ&pg=PA771&dq=%24%7BoriginalName%7D&hl=&cd=3&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=t7YNAAAAYAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=t7YNAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "KE",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=t7YNAAAAYAAJ&rdid=book-t7YNAAAAYAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "KE",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/The_Statutes_25_26_Victoria_to_28_29_Vic.epub?id=t7YNAAAAYAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.com/books/download/The_Statutes_25_26_Victoria_to_28_29_Vic.pdf?id=t7YNAAAAYAAJ&hl=&output=pdf&sig=ACfU3U0fCYAeFtIBwKTviYZa3tJSLhwl1g&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=t7YNAAAAYAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>original name</b> ; and all Acts relating to the Construction company by their <b>original name</b> shall be read and interpreted as if throughout those Acts , wherever the <b>original name</b> of the company or any reference to the company by their&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "skd5EK2-vyMC",
+      "etag": "ZEbA4o6CyYs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/skd5EK2-vyMC",
+      "volumeInfo": {
+        "title": "The Statutes, Second Revised Edition",
+        "subtitle": "From the Twentieth Year of the Reign of Henry III, to the Eleventh Year of George V. A.D. 1235-1920",
+        "authors": [
+          "Great Britain"
+        ],
+        "publishedDate": "1896",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "HARVARD:HL5KVQ"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 1254,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.4.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=skd5EK2-vyMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=skd5EK2-vyMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=skd5EK2-vyMC&pg=PA249&dq=%24%7BoriginalName%7D&hl=&cd=4&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=skd5EK2-vyMC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=skd5EK2-vyMC"
+      },
+      "saleInfo": {
+        "country": "KE",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=skd5EK2-vyMC&rdid=book-skd5EK2-vyMC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "KE",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/The_Statutes_Second_Revised_Edition.epub?id=skd5EK2-vyMC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=skd5EK2-vyMC&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>original name</b> ; and all Acts relating to the company by their <b>original name</b> Construction shall be read and interpreted as if throughout those Acts , of Acts . whenever the <b>original name</b> of the company or any reference to the company by&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ILDlSNCl9rcC",
+      "etag": "HcIJsENWLwQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ILDlSNCl9rcC",
+      "volumeInfo": {
+        "title": "The Law of Railway Companies",
+        "subtitle": "Being a Collection of the Acts and Orders Relating to Railway Companies in Great Britain and Ireland",
+        "authors": [
+          "John Hutton Balfour Browne",
+          "Sir Henry Studdy Theobald",
+          "Hamilton Conacher"
+        ],
+        "publishedDate": "1911",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OSU:32437122476126"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 1384,
+        "printType": "BOOK",
+        "categories": [
+          "Railroad law"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.2.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ILDlSNCl9rcC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ILDlSNCl9rcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=ILDlSNCl9rcC&pg=PA521&dq=%24%7BoriginalName%7D&hl=&cd=5&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=ILDlSNCl9rcC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=ILDlSNCl9rcC"
+      },
+      "saleInfo": {
+        "country": "KE",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=ILDlSNCl9rcC&rdid=book-ILDlSNCl9rcC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "KE",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/The_Law_of_Railway_Companies.epub?id=ILDlSNCl9rcC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ILDlSNCl9rcC&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>original name</b> ; and all Acts relating to the com- pany by their <b>original name</b> shall be read and interpreted as if throughout those Acts , wherever the <b>original name</b> of the company or any reference to the company by their <b>original name</b>&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "-OtCAQAAMAAJ",
+      "etag": "cfUKsvwWD0M",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/-OtCAQAAMAAJ",
+      "volumeInfo": {
+        "title": "Chitty's Annual Statutes",
+        "authors": [
+          "Great Britain",
+          "Joseph Chitty"
+        ],
+        "publishedDate": "1911",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "CORNELL:31924061084806"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 910,
+        "printType": "BOOK",
+        "categories": [
+          "Law"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.4.4.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=-OtCAQAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=-OtCAQAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=-OtCAQAAMAAJ&pg=PA504&dq=%24%7BoriginalName%7D&hl=&cd=6&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=-OtCAQAAMAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=-OtCAQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "KE",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=-OtCAQAAMAAJ&rdid=book--OtCAQAAMAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "KE",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/Chitty_s_Annual_Statutes.epub?id=-OtCAQAAMAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=-OtCAQAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>original name</b> ; and all acts relating to the company by their <b>original name</b> shall be read and interpreted as if throughout those acts , wherever the <b>original name</b> of the company or any reference to the company by their <b>original name</b>&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "S3lIAQAAMAAJ",
+      "etag": "eAJXdT1zRa8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/S3lIAQAAMAAJ",
+      "volumeInfo": {
+        "title": "A Treatise on the Law of Railways: Statutes, rules, forms, and standing orders of Parliament",
+        "authors": [
+          "Sir William Hodges"
+        ],
+        "publishedDate": "1889",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "IOWA:31858044354011"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 588,
+        "printType": "BOOK",
+        "categories": [
+          "Railroad law"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.6.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=S3lIAQAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=S3lIAQAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=S3lIAQAAMAAJ&pg=PA220&dq=%24%7BoriginalName%7D&hl=&cd=7&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=S3lIAQAAMAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=S3lIAQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "KE",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=S3lIAQAAMAAJ&rdid=book-S3lIAQAAMAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "KE",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/A_Treatise_on_the_Law_of_Railways_Statut.epub?id=S3lIAQAAMAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=S3lIAQAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>original name</b> ; and all acts relating to the company by their <b>original name</b> shall be read and interpreted as if throughout those acts , wherever the <b>original name</b> of the company or any reference to the company by their <b>original name</b>&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "lf9whCSytAMC",
+      "etag": "CXoPETxwgKo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/lf9whCSytAMC",
+      "volumeInfo": {
+        "title": "A Treatise on the Law of Railways, Railway Companies and Railway Investments",
+        "authors": [
+          "Hodges"
+        ],
+        "publishedDate": "1889",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UBBE:UBBE-00101529"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 588,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.3.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=lf9whCSytAMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=lf9whCSytAMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=lf9whCSytAMC&pg=PA220&dq=%24%7BoriginalName%7D&hl=&cd=8&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=lf9whCSytAMC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=lf9whCSytAMC"
+      },
+      "saleInfo": {
+        "country": "KE",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=lf9whCSytAMC&rdid=book-lf9whCSytAMC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "KE",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/A_Treatise_on_the_Law_of_Railways_Railwa.epub?id=lf9whCSytAMC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=lf9whCSytAMC&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>original name</b> ; and all acts relating to the company by their <b>original name</b> shall be read and interpreted as if throughout those acts , wherever the <b>original name</b> of the company or any reference to the company by their <b>original name</b>&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "PfxCAQAAMAAJ",
+      "etag": "0+mCamnvqxo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/PfxCAQAAMAAJ",
+      "volumeInfo": {
+        "title": "The Revised Statutes of British Columbia, 1911",
+        "subtitle": "Being a Consolidation and Revision of the Statutes Applicable to British Columbia, and Within the Power of the Legislature to Enact",
+        "authors": [
+          "British Columbia"
+        ],
+        "publishedDate": "1911",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "CORNELL:31924018100531"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 1240,
+        "printType": "BOOK",
+        "categories": [
+          "Law"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.4.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=PfxCAQAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=PfxCAQAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=PfxCAQAAMAAJ&pg=PA485&dq=%24%7BoriginalName%7D&hl=&cd=9&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=PfxCAQAAMAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=PfxCAQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "KE",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=PfxCAQAAMAAJ&rdid=book-PfxCAQAAMAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "KE",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/The_Revised_Statutes_of_British_Columbia.epub?id=PfxCAQAAMAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=PfxCAQAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>original name</b> ; and all Acts Construction of relating to the company by their <b>original name</b> shall be read and interpreted as if throughout those Acts , wherever the <b>original name</b> of the company or any reference to the company by their&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "_CRSAQAAIAAJ",
+      "etag": "oms72vBT0NU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/_CRSAQAAIAAJ",
+      "volumeInfo": {
+        "title": "Statutes of the Province of British Columbia",
+        "publishedDate": "1897",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCAL:B4899426"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 1166,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.6.5.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=_CRSAQAAIAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=_CRSAQAAIAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=_CRSAQAAIAAJ&pg=PA121&dq=%24%7BoriginalName%7D&hl=&cd=10&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=_CRSAQAAIAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=_CRSAQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "KE",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=_CRSAQAAIAAJ&rdid=book-_CRSAQAAIAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "KE",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/Statutes_of_the_Province_of_British_Colu.epub?id=_CRSAQAAIAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.com/books/download/Statutes_of_the_Province_of_British_Colu.pdf?id=_CRSAQAAIAAJ&hl=&output=pdf&sig=ACfU3U3haaDShaibeeu-fmmXhgj69zDAcg&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=_CRSAQAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>original name</b> ; and all Acts relating to the com- Construction of pany by their <b>original name</b> shall be read and interpreted as if throughout those Acts , wherever the <b>original name</b> of the company or any reference to the company by their&nbsp;..."
+      }
+    }
+  ]
 }
