@@ -1,4 +1,4 @@
-[
+{ "items" : [
   {
     "title": "Game of Thrones",
     "author": "George R. R. Martin",
@@ -223,3 +223,4 @@
     "id": 15
   }
 ]
+}
